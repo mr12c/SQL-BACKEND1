@@ -108,6 +108,6 @@ public
 .svelte-kit
 
 # Temporary folders
-DigiCertGlobalRootCA.crt.pem
+# DigiCertGlobalRootCA.crt.pem
 tmp/
 temp/
